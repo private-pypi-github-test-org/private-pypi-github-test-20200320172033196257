@@ -1,0 +1,13 @@
+mtime = 1584724847
+[[pkgs]]
+type = "github"
+distrib = "dhm62ctkktwkwfgjcoritv"
+package = "dHM62ctKKtWKwfgjCoRitV-1.0-py3-none-any"
+ext = "whl"
+sha256 = "45759c4fb33cbc7030c1ba21f4381c3307a0958bcb8a5e076e9ed6cf99766e63"
+url = "https://api.github.com/repos/private-pypi-github-test-org/private-pypi-github-test-20200320172033196257/releases/assets/18858485"
+
+[pkgs.meta]
+name = "dHM62ctKKtWKwfgjCoRitV"
+distrib = "dhm62ctkktwkwfgjcoritv"
+sha256 = "45759c4fb33cbc7030c1ba21f4381c3307a0958bcb8a5e076e9ed6cf99766e63"
